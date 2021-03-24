@@ -1,2 +1,6 @@
 Git 101
-Hello World !!
+<<<<<<< HEAD
+
+=======
+Hello World !! line 2
+>>>>>>> 155a01ab472519e811adc98e23e153902daded19
